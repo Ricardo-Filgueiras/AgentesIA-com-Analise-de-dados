@@ -1,0 +1,3 @@
+Em casos de erros uutilize o codigo a seguir 
+
+pip install -U langchain-google-genai -q
